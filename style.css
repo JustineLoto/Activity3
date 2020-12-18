@@ -1,0 +1,17 @@
+body,html{
+    font-size: 120%;
+    font-family: "Courier New" ;
+    margin-top: 20px;
+    margin-left: 35px;
+    padding: 0;
+    scroll-behavior: smooth;
+    max-width: auto;
+    height: auto;
+    background-image: url("BG1.jpg") ;
+}
+h1{
+    font-size: 200%;
+    font-style: Bookman Old Style;
+    color: rgb(15, 179, 15);
+    text-align: center;
+}
